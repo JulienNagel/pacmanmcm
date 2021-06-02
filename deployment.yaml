@@ -72,11 +72,11 @@ spec:
         #Couleur du fond : Rouge
           #value: "rgb(180, 33, 33)"
         #Couleur du fond : Bleue
-          value: "rgb(59, 108, 170)"
+          #value: "rgb(59, 108, 170)"
         #Couleur du fond : Default = noir
-          #value: "rgb(0, 0, 0)"
+          value: "rgb(0, 0, 0)"
         - name: MY_IMAGE
-          value: HelloPacManBlue
+          value: FondNoir
         - name: MESSAGE
           value: "Initial Version"
 
