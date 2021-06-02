@@ -70,7 +70,7 @@ spec:
               fieldPath: spec.nodeName
         - name: COLOR
         #Couleur du fond : Rouge
-         value: "rgb(180, 33, 33)"
+          value: "rgb(180, 33, 33)"
         #Couleur du fond : Bleue
           #value: "rgb(59, 108, 170)"
         #Couleur du fond : Default = noir
