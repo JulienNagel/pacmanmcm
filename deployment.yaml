@@ -69,14 +69,14 @@ spec:
             fieldRef:
               fieldPath: spec.nodeName
         - name: COLOR
-        #Rouge
-          #value: "rgb(180, 33, 33)"
-        #Bleue
+        #Couleur du fond : Rouge
+         value: "rgb(180, 33, 33)"
+        #Couleur du fond : Bleue
           #value: "rgb(59, 108, 170)"
-        #Default
-          value: "rgb(0, 0, 0)"
+        #Couleur du fond : Default = noir
+          #value: "rgb(0, 0, 0)"
         - name: MY_IMAGE
-          value: Hello
+          value: HelloPacMan
         - name: MESSAGE
           value: "Initial Version"
 
